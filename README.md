@@ -18,5 +18,23 @@ Here are some ideas to get you started:
 
 >  I'm currently working on GSB Training 2025 project. 
 
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,js,python,r,sklearn,tensorflow,pytorch,postgresql&theme=light&perline=5)](https://skillicons.dev)
+
+##### Let's Connect
+
+![https://instagram.com/erlangga_heryanto](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/erlangga-sri-heryanto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 ![Let's get into my world](media/Jujutsu%20Kaisen%20GIF.gif)
 
+##### My Github Stats
+
+![Erlangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=11erlangga&show_icons=true&theme=radicalf)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11erlangga/11erlangga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/11erlangga/11erlangga/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/11erlangga/11erlangga/output/pacman-contribution-graph.svg">
+</picture>
