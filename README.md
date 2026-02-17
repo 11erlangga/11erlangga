@@ -1,4 +1,12 @@
-## I'm Erlangga, Happy to see you here 😁
+Hi, Happy to see you here 😁
+==
+Perkenalkan nama saya **Erlangga Sri Heryanto**.<br>
+
+Saya seorang **Mahasiswa Statistika & Sains Data** di [IPB University](https://www.ipb.ac.id/id/).<br>
+
+Saya tertarik pada bidang **Data Science dan AI**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/erlangga-sri-heryanto)ku ya.
 
 <!--
 **11erlangga/11erlangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
->  I'm currently working on GSB Training 2025 project. 
 
 ##### Skills
 
