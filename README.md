@@ -8,6 +8,14 @@ Saya tertarik pada bidang **Data Science dan AI**.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/erlangga-sri-heryanto)ku ya.
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/11erlangga">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=11erlangga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=11erlangga&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **11erlangga/11erlangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,13 +38,6 @@ Here are some ideas to get you started:
 ##### Let's Connect
 
 ![https://instagram.com/erlangga_heryanto](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/erlangga-sri-heryanto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-![Let's get into my world](media/Jujutsu%20Kaisen%20GIF.gif)
-
-##### My Github Stats
-
-![Erlangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=11erlangga&show_icons=true&theme=radicalf)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11erlangga/11erlangga/output/pacman-contribution-graph-dark.svg">
