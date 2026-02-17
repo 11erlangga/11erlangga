@@ -34,9 +34,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 
 [![My Skills](https://skillicons.dev/icons?i=c,css,html,js,python,r,sklearn,tensorflow,pytorch,postgresql&theme=light&perline=5)](https://skillicons.dev)
 
-##### Let's Connect
-
-![https://instagram.com/erlangga_heryanto](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/erlangga-sri-heryanto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11erlangga/11erlangga/output/pacman-contribution-graph-dark.svg">
